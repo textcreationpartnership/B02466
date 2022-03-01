@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for printing the translation of a Latin manuscript, written by Judge Craig, one of the judges of Scotland, in the reign of King James VI. before his accession to the throne of England. Entituled De hominis: or, A dispute against those who maintain, that Scotland is a fee or feu-liege of England, and that the King of Scots owes homage to the King of England upon that account.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02466</idno>
+            <idno type="STC">Wing C6803A</idno>
+            <idno type="STC">ESTC R175872</idno>
+            <idno type="EEBO-CITATION">53299023</idno>
+            <idno type="OCLC">ocm 53299023</idno>
+            <idno type="VID">179797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179797)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2803:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for printing the translation of a Latin manuscript, written by Judge Craig, one of the judges of Scotland, in the reign of King James VI. before his accession to the throne of England. Entituled De hominis: or, A dispute against those who maintain, that Scotland is a fee or feu-liege of England, and that the King of Scots owes homage to the King of England upon that account.</title>
+                  <author>Craig, Thomas, Sir, 1538-1608. De hominis.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Craig, Thomas, --  Sir, 1538-1608.</term>
+               <term>Printing --  Great Britain --  Abstracts --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:179797:1" rendition="simple:additions"/>
+            <head>PROPOSALS FOR Printing the TRANSLATION of a LATIN MANU<g ref="char:EOLhyphen"/>SCRIPT, written by Judge CRAIG, one of the Judges of <hi>Scotland,</hi> in the Reign of King <hi>James</hi> VI. before his Ac<g ref="char:EOLhyphen"/>ceſſion to the Throne of <hi>England.</hi> ENTITULED De HOMINIS: OR, A Diſpute againſt thoſe who maintain, That <hi>Scotland</hi> is a Fee or Feu-liege of <hi>England,</hi> and that the King of <hi>Scots</hi> owes Ho<g ref="char:EOLhyphen"/>mage to the King of <hi>England</hi> upon that Account.</head>
+            <p>THE Manuſcript above-mentioned, bearing date <hi>March</hi> 6. 1602. is ſuppoſed to have been by ſome unfair Methods taken out of ſome Publick Library, if not from the Archives of <hi>Scotland,</hi> it being Writ with more than ordinary Care and Curioſity. By the Margin of the ſame Page, it appears to have ſometime belonged to the Great General, Sir <hi>Thomas Fairfax,</hi> his Name being writ up<g ref="char:EOLhyphen"/>on it with his own Hand, and a Line or two importing that it was preſented to him by <hi>Chriſtopher Irwin,</hi> Chyrurgion, <hi>March</hi> 20. 1656/7. the Regiſters of <hi>Scotland</hi> being about that time ſeiz'd and diſpers'd by <hi>Oliver.</hi> The Opinion which that Great Perſon had of its Conſideration and Weight, appears by a Note upon one of the blank Pages, ſigned with his own Hand, deſiring Sir <hi>John Goodrick</hi> to return it after a full peruſal. And there are alſo ſeveral Notes relating to the Subject-matter, writ by the ſaid General up<g ref="char:EOLhyphen"/>on divers of the Margins. The Manuſcript would ſeem to have been preſerved by a ſpecial Providence, and generouſly communicated to the Publiſhers by a very Worthy Gentleman of <hi>Yorkſhire,</hi> whoſe Name, if it be allowed, ſhall be inſerted in the Pre<g ref="char:EOLhyphen"/>face, or Title-page, that the Publick may know to whom it is they are ſo much oblig'd.</p>
+            <p>The Parts, Quality, and Publick Station of the Author, who is very well known to the Learned in the Law, by his Book, <hi>de Feudis, &amp;c.</hi> are ſufficient to recommend it to any Man that ever heard of his Fame. The Subject-Matter is ſuch, as will doubt<g ref="char:EOLhyphen"/>leſs render it highly Valuable to all <hi>Scots-men;</hi> and the great Variety of Learning, both in Hiſtory and Law, which is diſcovered throughout the whole, will no doubt render it acceptable to all Ingenious and Curious Men of the Three Kingdoms: And therefore that the Publick may enjoy the benefit of ſuch a Valuable Piece,</p>
+            <p>It is propoſed, To Print the ſame in <hi>Engliſh,</hi> upon the ſame Paper, and in the ſame Character with theſe Propoſals, in <hi>Octavo,</hi> at 4 <hi>s. per</hi> Book in Quires, the Book being to conſiſt of about Thirty Sheets in Print. And for the Encouragement of Subſcribers, thoſe who Subſcribe for Six, ſhall have a Seventh <hi>gratis.</hi> Thoſe who will be pleaſed to encourage the Publiſhing of ſuch a Curious Book, which is indeed a Critick upon moſt of the Common Hiſtorians, are deſired to pay in half the Subſcription-mo<g ref="char:EOLhyphen"/>ney to Mr. <hi>Bell</hi> and Mr. <hi>Luntly,</hi> at the <hi>Peſtle</hi> and <hi>Mortar</hi> in <hi>Chancery-Lane,</hi> where they ſhall have Receipts as uſual: And thoſe in <hi>Scotland</hi> are deſired to pay theirs to Mr. <hi>Alexander Henderſon,</hi> Bookſeller in the <hi>Lucken-booth</hi> at <hi>Edinburgh;</hi> and upon payment of the other half, the Books ſhall be delivered, God willing, about the 25th of <hi>December</hi> next, or ſooner, if it meet with due Encouragement.</p>
+            <pb facs="tcp:179797:2" rendition="simple:additions"/>
+            <list>
+               <head>The CONTENTS are,</head>
+               <item>
+                  <hi>Chap.</hi> 1. CONCERNING the Occaſion of this Writing, and the Aſſertors of the Homage</item>
+               <item>
+                  <hi>Chap.</hi> 2. The Definition and form of Homage.</item>
+               <item>
+                  <hi>Chap.</hi> 3. At what time Homage had its firſt riſe in the World.</item>
+               <item>
+                  <hi>Chap.</hi> 4. At what time Monarchy began in that part of <hi>Britain</hi> which was a <hi>Roman</hi> Province.</item>
+               <item>
+                  <hi>Chap.</hi> 5. That the <hi>Engliſh</hi> have no certain Hiſtory before the Conqueſt, except what was Writ by the <hi>Roman</hi> Hiſtorians, and <hi>Gildas,</hi> or <hi>Bede.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 6. That all the Witneſſes adduced to prove this Homage, are ſuſpected.</item>
+               <item>
+                  <hi>Chap.</hi> 7. That this Homage is inconſiſtent with the Feudal Law.</item>
+               <item>
+                  <hi>Chap.</hi> 8. That neither <hi>Brutus, Ebrancus, Clotenus, Mulmutius,</hi> or <hi>Dunwallo,</hi> did ever exact, or know any thing of this Superiority.</item>
+               <item>
+                  <hi>Chap.</hi> 9. Of <hi>Fergus</hi> the Firſt King of <hi>Scots, Carlus</hi> King of the <hi>Britains,</hi> and other <hi>Britiſh</hi> Kings, till the Arrival of <hi>Caeſar.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 10. What the Condition of the <hi>Scots</hi> was, and their Society with the <hi>Britans</hi> after the Arrival of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Julius</hi> Caeſar, and the <hi>Romans</hi> in <hi>Britain.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 11. Of the Departure of the <hi>Romans</hi> from <hi>Britain,</hi> and how the whole was ſubject to the <hi>Scots</hi> and <hi>Picts.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 12. Of <hi>Arthur,</hi> whether he ſubdued <hi>Scotland,</hi> and exacted Homage from the King of <hi>Scots,</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 13. Of <hi>Malgo,</hi> and other Kings of the <hi>Britiſh</hi> Line, whether they could pretend to any Homage.</item>
+               <item>
+                  <hi>Chap.</hi> 14. Of the <hi>Saxon</hi> Monarchy, and its duration, and whether ever <hi>Scotland</hi> belonged to the King of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 15. The true delineation and deſcription of the <hi>Saxon</hi> Monarchy.</item>
+               <item>
+                  <hi>Chap.</hi> 16. Whether <hi>Cadvan, Ethelfred, Oſwald, Oſuin,</hi> or <hi>Osbright,</hi> did demand this Ho<g ref="char:EOLhyphen"/>mage.</item>
+               <item>
+                  <hi>Chap.</hi> 17. Of <hi>Ethelwolf, Alured,</hi> and <hi>Edward,</hi> Kings of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 18. Of <hi>Athelſtan,</hi> who was the firſt that received Homage from the King of <hi>Scots</hi> for <hi>Cumberland</hi> and <hi>Weſtmerland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 19. Of <hi>Edmund, Eldred,</hi> and <hi>Edgar, Saxon</hi> Kings, whether they pretended to any Superiority over <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 20. Of <hi>Ethelred, Edmund Ironſide, Canutus,</hi> and <hi>Edward,</hi> Kings of <hi>England,</hi> whether they ever pretended to any Right over <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 21. That no probable nor likely reaſon can be brought to prove that Homage was per<g ref="char:EOLhyphen"/>formed for <hi>Scotland</hi> during the <hi>Saxon</hi> Monarchy.</item>
+               <item>
+                  <hi>Chap.</hi> 22. Of <hi>William</hi> the Conqueror, whether he pretended any other Right to the Crown of <hi>England,</hi> than that of War.</item>
+               <item>
+                  <hi>Chap.</hi> 23. Of the Conqueror, and his Sons <hi>Rufus</hi> and <hi>Henry</hi> Kings of <hi>England,</hi> and whether Homage was performed to them for the Kingdom of <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 24. Of <hi>Henry II.</hi> and by what Arts he endeavoured to Eſtabliſh the Homage to himſelf and his Heirs, and concerning the true form of this Homage.</item>
+               <item>
+                  <hi>Chap.</hi> 25. The Clergy of <hi>Scotland</hi> not ſubject in Spirituals to any <hi>Engliſh</hi> Archbiſhop.</item>
+               <item>
+                  <hi>Chap.</hi> 26. Of <hi>Richard</hi> and <hi>John</hi> Kings of <hi>England,</hi> and what was the form of the Homage performed to them.</item>
+               <item>
+                  <hi>Chap.</hi> 27. Of <hi>Henry III.</hi> and whether there was any Homage performed to him.</item>
+               <item>
+                  <hi>Chap.</hi> 28. By what Methods <hi>Edward I.</hi> ſought to obtain the Sovereignty of <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 29. Whether or not the Sentence was Juſt which <hi>Edward I.</hi> gave for <hi>Baliol</hi> againſt <hi>Bruce.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 30. Whether a Sovereign Prince can make himſelf and his Subjects Vaſſals to another, and how by the practice of <hi>Edward I.</hi> this Superiority was entirely deſtroyed.</item>
+               <item>
+                  <hi>Chap.</hi> 31. A ſharp Epiſtle of Pope <hi>Boniface</hi> the <hi>8th.</hi> to King <hi>Edward,</hi> concerning the In<g ref="char:EOLhyphen"/>juſtice of his War againſt the <hi>Scots,</hi> and the ſaid King <hi>Edward</hi>'s Apology.</item>
+               <item>
+                  <hi>Chap.</hi> 32. Of the various Succeſs in this War againſt the <hi>Scots,</hi> and how at laſt the <hi>Engliſh</hi> were thrown out of <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 33. Of <hi>Edward II.</hi> and <hi>III.</hi> and <hi>Henry IV.</hi> and whether they received any Homage from <hi>Scotland.</hi>
+               </item>
+               <item>
+                  <hi>Chap.</hi> 34. A Brief and Summary Concluſion of the whole Diſpute, and ſome new and ſtrong Arguments againſt this Commentitious Homage.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
